@@ -23,6 +23,7 @@ class FileViewer extends Component {
     this.state = {
       loading: true,
     };
+    console.log("搜索是是是多所多所");
   }
 
   componentDidMount() {
